@@ -2,7 +2,7 @@
 
 **Nama:** Fiqro Najiah  
 **NIM:** F1D02310051  
-**Kelas:** [isi kelas kamu]
+**Kelas:** D
 
 ## Deskripsi
 
@@ -19,21 +19,9 @@ Aplikasi desktop berbasis PySide6 untuk mengelola data post menggunakan REST API
 - State handling — indikator loading saat request berjalan, tombol Edit/Hapus hanya aktif saat ada baris terpilih
 - Error handling — menangani timeout, connection error, dan validasi 422 (slug duplikat)
 
-## Teknologi
-
-- Python 3.x
-- PySide6 — antarmuka grafis
-- requests — HTTP client
-- QThread — multi-threading
-
-## Cara Menjalankan
-
-```bash
-pip install PySide6 requests
-python T6_Week11_F1D02310051.py
-```
 
 ## Screenshot
+`/ss.png`
 
 <!-- Tambahkan screenshot di sini setelah menjalankan aplikasi -->
 ![Screenshot Aplikasi](screenshot.png)
