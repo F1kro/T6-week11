@@ -24,4 +24,4 @@ Aplikasi desktop berbasis PySide6 untuk mengelola data post menggunakan REST API
 `/ss.png`
 
 <!-- Tambahkan screenshot di sini setelah menjalankan aplikasi -->
-![Screenshot Aplikasi](screenshot.png)
+![Screenshot Aplikasi](ss.png)
